@@ -1,0 +1,57 @@
+.containervideo{
+    width: 100%;
+    padding-right: 20%;
+    padding-left: 20%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.containerprincipal {
+    width: 100% !important;
+}
+.containerwe {
+    width: 100% !important;
+    padding-right: 7%;
+    padding-left: 7%;
+
+}
+
+.rowhome {
+    column-count: 4 !important;
+}
+
+.img {
+    height:250px;
+}
+
+.color{
+    border: solid #dfe6e9 ;
+}
+.color:hover{
+    border: solid #485460;
+}
+
+.anyClass {
+    height:150px;
+    overflow-y: scroll;
+}
+
+
+.overflow-ellipsis {
+    text-overflow: ellipsis;
+  }
+
+h4.a {
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.col {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+
+.salto{
+    padding-top: 10PX
+}
